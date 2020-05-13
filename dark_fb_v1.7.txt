@@ -1,0 +1,12 @@
+Cara install dark FB v1.7 versi original
+
+$ pkg update && pkg upgrade
+$ pkg install python2
+$ pip2 install mechanize
+$ pip2 install requests
+$ pkg install git
+$ git clone https://github.com/rezadkim/dark-fb
+$ cd dark-fb
+$ python2 dark.py
+
+Thanks for watching...
